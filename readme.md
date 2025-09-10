@@ -25,12 +25,15 @@ Choose between **Brief**, **Bullet Points**, or **Detailed** summaries — all f
 ## 📸 Screenshots
 
 structure of the Project:
+
 ![structure](./screenshots/structure.png)
 
 PopUp UI:
+
 ![Popup Screenshot](./screenshots/popup.png)
 
 ApiKey request:
+
 ![Options Screenshot](./screenshots/options.png)
 
 ---
@@ -42,3 +45,4 @@ ApiKey request:
    git clone https://github.com/your-username/ai-summary-extension.git
    cd ai-summary-extension
    ```
+
