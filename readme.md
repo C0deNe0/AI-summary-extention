@@ -1,71 +1,41 @@
-📝 AI Summary Extension
+# 📝 AI Summary Extension
 
-An elegant browser extension that uses the Gemini API to generate concise summaries of any webpage. Choose between brief, bullet-point, or detailed summaries, and stay productive with a clean, modern dark-themed UI.
+Summarize any webpage instantly with the power of **Gemini API**.  
+Choose between **Brief**, **Bullet Points**, or **Detailed** summaries — all from a sleek dark-themed popup.
 
-✨ Features
+---
 
-🔹 Summarize any webpage content instantly
+## 🚀 How it works
 
-🔹 Three summary modes: Brief, Bullets, Detailed
+1. Get your **Gemini API key** from [Google AI Studio](https://makersuite.google.com/app/apikey).
+2. Open the extension **Options** page and save your key.
+3. Open any webpage → click the extension icon → select summary style → done!
 
-🔹 Dark-themed modern popup & settings page
+---
 
-🔹 Save & manage your Gemini API key securely
+## ✨ Features
 
-🔹 Copy summaries to clipboard with one click
+- ⚡ Instant summaries in 3 modes
+- 📋 One-click copy to clipboard
+- 🎨 Dark modern UI with smooth animations
+- 🌐 Works on **Chrome**, **Brave**, and other Chromium browsers
 
-🔹 Works on Chrome, Brave, and other Chromium-based browsers
+---
 
-📸 Preview
+## 📸 Screenshots
 
-(Add screenshots of popup and options page here once you have them)
+[![structure](./screenshots/structure.png)]
 
-⚙️ Installation
+![Popup Screenshot](./screenshots/popup.png)  
 
-Clone or download this repository.
+![Options Screenshot](./screenshots/options.png)
 
-git clone https://github.com/your-username/ai-summary-extension.git
-cd ai-summary-extension
+---
 
-Open your browser’s extension manager:
+## 📂 Installation (Developer Mode)
 
-Chrome/Brave: chrome://extensions/ or brave://extensions/
-
-Enable Developer Mode.
-
-Click Load unpacked and select this project folder.
-
-The extension will now appear in your toolbar.
-
-🔑 Setup Gemini API Key
-
-Get your free API key from Google AI Studio
-.
-
-Open the extension Options page.
-
-Paste your key and click Save Settings.
-
-🚀 Usage
-
-Navigate to any webpage you want summarized.
-
-Click the extension icon in your browser toolbar.
-
-Select summary type (Brief, Bullets, Detailed).
-
-Hit Summarize → Copy if needed.
-
-🛠️ Tech Stack
-
-HTML, CSS, JavaScript
-
-Manifest V3 Chrome Extension
-
-Gemini API for AI summarization
-
-📌 Compatibility
-
-✅ Chrome
-✅ Brave
-✅ Edge (Chromium-based)
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/your-username/ai-summary-extension.git
+   cd ai-summary-extension
+   ```
