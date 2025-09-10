@@ -24,10 +24,13 @@ Choose between **Brief**, **Bullet Points**, or **Detailed** summaries — all f
 
 ## 📸 Screenshots
 
-[![structure](./screenshots/structure.png)]
+structure of the Project:
+![structure](./screenshots/structure.png)
 
-![Popup Screenshot](./screenshots/popup.png)  
+PopUp UI:
+![Popup Screenshot](./screenshots/popup.png)
 
+ApiKey request:
 ![Options Screenshot](./screenshots/options.png)
 
 ---
